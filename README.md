@@ -3,7 +3,7 @@
 
 Hello everyone! My name is Izaz Saputra, and i'm just a ordinary student. Currently i live in Indonesia, and spending my time with coding and also games. Here's some Language that i've learned : `Javascript[React, DOM, Node]`, `Laravel 11`, `C#`, `C++`.
 
-<p align="right">Still need more to learn, aye?</p>
+<p align="right">- Still need more to learn, aye?</p>
 
 <br>
 
