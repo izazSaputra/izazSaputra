@@ -1,7 +1,7 @@
 ### Who Am I
 
 
-Hello everyone! My name is Izaz Saputra, and i'm just a ordinary student. Currently i live in Indonesia, and spending my time with coding and also games. Here's some Language that i've learned : `Javascript[React, DOM, Node]`, `Laravel 11`, `C#`, `C++`.
+Hello everyone! My name is Izaz Saputra, and i'm just a ordinary student. Currently i live in Indonesia, and spending my time with coding and also games. Here's some Language that i've learned : `Javascript`, `Laravel`, `React`, `Next.Js`. `C++`. 
 
 <p align="right">- Still need more to learn, aye?</p>
 
@@ -9,6 +9,7 @@ Hello everyone! My name is Izaz Saputra, and i'm just a ordinary student. Curren
 
 ### Some Language I Really Interested
 * [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 
