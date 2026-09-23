@@ -3,7 +3,7 @@
 # less scrolling,<br>more creating.
 
 **hey, i'm izaz saputra.**  
-a student, a curious builder, and sometimes a gamer.
+a student, and a curious builder.
 
 <br>
 
@@ -39,6 +39,7 @@ When I'm away from the editor, I'm probably playing games.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-151515?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=777BB4)
 
 **Things I've worked with**
 
@@ -50,6 +51,16 @@ When I'm away from the editor, I'm probably playing games.
 **Curious about**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-151515?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Express](https://img.shields.io/badge/Express-151515?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Go](https://img.shields.io/badge/Go-151515?style=for-the-badge&logo=go&logoColor=00ADD8)
+
+### ↗ design & motion
+
+![Figma](https://img.shields.io/badge/Figma-151515?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![GSAP](https://img.shields.io/badge/GSAP-151515?style=for-the-badge&logo=gsap&logoColor=88CE02)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-151515?style=for-the-badge)
+![Lightroom](https://img.shields.io/badge/Adobe_Lightroom-151515?style=for-the-badge)
 
 <sub>A toolbox in progress. Using something doesn't mean I've mastered it.</sub>
 
@@ -61,6 +72,15 @@ When I'm away from the editor, I'm probably playing games.
 <tr>
 <td>
 
+**Mono — my Identity, my Zone.**
+
+My Personal website, a placeto introduce myself. 
+In here I share what i've built, and experiment with my own visual style.
+
+`React` · `CSS` · `Currently building`
+
+---
+
 **INOVUS — our people, our stories.**
 
 A class website for **PTI-B 2025** at Universitas Negeri Malang.
@@ -68,6 +88,16 @@ A place for familiar faces, shared moments, and the memories
 we make along the way.
 
 `Astro` · `CSS` · `Currently building`
+
+---
+
+
+**Sarkawie-Concept — find your next cup.**
+
+A Concept Coffee Shop website for internal campus task project.
+A space to explore coffee origins and discover a cup that suits your taste.
+
+`Laravel` · `Blade` . `React` · `Currently building`
 
 </td>
 </tr>
@@ -81,23 +111,6 @@ we make along the way.
 - Breaking pages into components that make sense.
 - Making layouts feel right on both desktop and mobile.
 - Knowing when to stop adjusting the spacing.
-
-<br>
-
-<details>
-<summary><b>a few more things about me</b></summary>
-
-<br>
-
-| Topic | My answer |
-| :--- | :--- |
-| How I learn | Build it, break it, understand it. |
-| What catches my eye | Good typography and thoughtful layouts. |
-| Outside of coding | Games. Naturally. |
-| Current approach | One component at a time. |
-| Still working on | Pretty much everything. That's the point. |
-
-</details>
 
 <br>
 
