@@ -92,7 +92,7 @@ we make along the way.
 ---
 
 
-**Sarkawie-Concept — find your next cup.**
+**Warung makan Jawa-Concept — find your confort foods.**
 
 A Concept Coffee Shop website for internal campus task project.
 A space to explore coffee origins and discover a cup that suits your taste.
