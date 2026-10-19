@@ -105,15 +105,6 @@ A space to explore coffee origins and discover a cup that suits your taste.
 
 <br>
 
-### ↗ things i'm figuring out
-
-- Turning the design in my head into something that works in a browser.
-- Breaking pages into components that make sense.
-- Making layouts feel right on both desktop and mobile.
-- Knowing when to stop adjusting the spacing.
-
-<br>
-
 ---
 
 <div align="center">
